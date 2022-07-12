@@ -9,7 +9,6 @@ The purpose of this project is to analyze Amazone written reviews by members of 
     - 12371 of the total reviews were 5-star reviews
     - 202 of the five-star reviews were vine (paid) reviews
     - 12033 of the five-star reviews were non-vine (unpaid) reviews
-    - 27389 12371 202 0.016328510225527445 12033 0.9726780373454046
     
 | total      | five-stars | vine  | non-vine |
 |------------|------------|-------| ---------|
